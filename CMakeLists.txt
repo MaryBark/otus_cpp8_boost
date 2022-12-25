@@ -21,7 +21,7 @@
 
 cmake_minimum_required(VERSION 3.2)
 
-project(otus8_cpp_boost VERSION 0.0 ${PATCH_VERSION})
+project(otus8_cpp_boost VERSION 0.0.${PATCH_VERSION})
 
 
 set(Boost_USE_STATIC_LIBS OFF)
